@@ -1,0 +1,22 @@
+#parrafo1{
+    color: brown;
+}
+h1{
+    color: aqua;
+}
+h3{
+    color: brown;
+}
+#encabezado-cuatro{
+    color: brown;
+}
+.color-red{
+    color: bisque;
+}
+body{
+      background-image: url(https://c8.alamy.com/compes/bkn613/voces-inocentes-2004-voces-inocentes-alt-carlos-padilla-voin-001-02-bkn613.jpg);
+}
+.footer{
+    color: azure;
+    background-color: blueviolet;
+}
